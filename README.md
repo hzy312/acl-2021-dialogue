@@ -1,7 +1,7 @@
 # TIPS
 
 * This repo collects the paper and corresponding official code from acl-2021 in dialogue domain
-* TOPICS: ```dialogue response generation(generation-based, persona-based)```   ```dialogue summarization```   ``` dialogue emotion detection```   ```task-oritented dialogue system``` 
+* TOPICS:  ```dialogue response generation```   ```dialogue summarization```   ``` dialogue emotion detection```   ```task-oritented dialogue system```  ```dialogue relation extraction``` ```dialogue contradiction detection```
 
 * 
 
@@ -95,4 +95,14 @@ adding controllability in the dialogue model: ```control code features ```    an
 * dialogue emotion detection
 * paper: https://aclanthology.org/2021.acl-long.125.pdf
 * code:  http://github.com/something678/TodKat
+
+topic-driven
+
+# I like fish , especially dolphins : Addressing Contradictions in Dialogue Modeling
+
+* dialogue contradiction detection
+* paper: https://aclanthology.org/2021.acl-long.134.pdf
+* code: https://parl.ai/projects/contradiction
+
+```DECODE```: DiloguE COtradiction DEtection task
 
