@@ -1,3 +1,9 @@
+# TIPS
+
+* This repo collects the paper and corresponding official code from acl-2021 in dialogue domain
+* 
+* 
+
 # Conversations Are Not Flat: Modeling the Dynamic Information Flow across Dialogue Utterances
 
 * **generation-based dialogue system**
