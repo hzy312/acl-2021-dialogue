@@ -1,5 +1,7 @@
 # Conversations Are Not Flat: Modeling the Dynamic Information Flow across Dialogue Utterances
 
+* **generation-based dialogue system**
+
 * paper: https://aclanthology.org/2021.acl-long.11.pdf
 * code: https://github.com/ictnlp/DialoFlow
 
@@ -7,16 +9,42 @@
 
 ```FLow Score:```
 
+```text
+![](http://latex.codecogs.com/svg.latex?s_k = cos(<I^{'}_k,I_k>)\cdot length(I^{'}_k\cdot I_k))
+```
 
+```text
+![](http://latex.codecogs.com/svg.latex?Flow\_score = 2^{-\frac{1}{M}\sum_k^M \log(\frac{s_k+1}{2})})
+```
 
+# Dual Slot Selector via Local Reliability Verification for Dialogue State Tracking
 
-$$
-s_k = cos(<I^{'}_k,I_k>)\cdot length(I^{'}_k\cdot I_k)
-$$
+* **dialogue state tracking**
 
-$$
-Flow\_score = 2^{-\frac{1}{M}\sum_k^M \log(\frac{s_k+1}{2})}
-$$
+* paper: https://aclanthology.org/2021.acl-long.12.pdf
+* code: https://github.com/guojinyu88/DSSDST
 
+```dual slot selector```: based on current turn dialogue
 
+```slot value generator```: based on the dialogue history
+
+# Transferable Dialogue Systems and User Simulators
+
+* dialogue systems with reinforcement learning
+
+* paper: https://aclanthology.org/2021.acl-long.13.pdf
+* code: https://github.com/andy194673/joust
+
+Joint optimisation with a simulator(JOUST)
+
+# BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data
+
+* persona-based dialogue system
+
+* paper: https://aclanthology.org/2021.acl-long.14.pdf
+* code:  https://github.com/songhaoyu/BoB
+
+task1 : consistency understanding using non-dialogue corpus to train
+
+task2: dialogue generation(could use persona-sparse dataset to train)
 
