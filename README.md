@@ -31,7 +31,7 @@
 * paper: https://aclanthology.org/2021.acl-long.13.pdf
 * code: https://github.com/andy194673/joust
 
-Joint optimisation with a simulator(JOUST)
+Joint optimization with a simulator(JOUST)
 
 # BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data
 
@@ -59,5 +59,16 @@ model social relation as an attributed And-Or graph
 
 * paper: https://aclanthology.org/2021.acl-long.57.pdf
 
+* code: NULL
+
+conventional adversarial training wants to keep the output un-changed while undertaking the perturbations
+
+```Inverse Adversarial Training``` aims to generate different response while small perturbations in the dialogue history
+
+# Increasing Faithfulness in Knowledge-Grounded Dialogue with Controllable Features
+
+* knowledge-grounded dialogue system
+
+* paper: https://aclanthology.org/2021.acl-long.58.pdf
 * code: NULL
 
