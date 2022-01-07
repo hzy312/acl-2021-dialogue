@@ -88,5 +88,5 @@ adding controllability in the dialogue model: ```control code features ```    an
 
 ```keyword extraction```    ``` redundancy detection```    ``` topic segmentation```
 
-![image-20220107161008540](./images\dialogue-annotator-summarization.png)
+![image-20220107161008540](https://github.com/hzy312/acl-2021-dialogue-papers/blob/main/images/dialogue-annotator-summarization.png)
 
