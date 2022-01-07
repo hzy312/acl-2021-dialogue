@@ -1,7 +1,8 @@
 # TIPS
 
 * This repo collects the paper and corresponding official code from acl-2021 in dialogue domain
-* TOPICS: ```TODO```
+* TOPICS: ```dialogue response generation(generation-based, persona-based)```   ```dialogue summarization```   ``` dialogue emotion detection```   ```task-oritented dialogue system``` 
+
 * 
 
 # Conversations Are Not Flat: Modeling the Dynamic Information Flow across Dialogue Utterances
@@ -89,4 +90,9 @@ adding controllability in the dialogue model: ```control code features ```    an
 ```keyword extraction```    ``` redundancy detection```    ``` topic segmentation```
 
 ![image-20220107161008540](https://github.com/hzy312/acl-2021-dialogue-papers/blob/main/images/dialogue-annotator-summarization.png)
+
+# Topic-Driven and Knowledge-Aware Transformer for Dialogue Emotion Detection
+* dialogue emotion detection
+* paper: https://aclanthology.org/2021.acl-long.125.pdf
+* code:  http://github.com/something678/TodKat
 
