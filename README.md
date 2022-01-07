@@ -1,7 +1,7 @@
 # TIPS
 
 * This repo collects the paper and corresponding official code from acl-2021 in dialogue domain
-* 
+* TOPICS: ```TODO```
 * 
 
 # Conversations Are Not Flat: Modeling the Dynamic Information Flow across Dialogue Utterances
@@ -77,4 +77,16 @@ conventional adversarial training wants to keep the output un-changed while unde
 
 * paper: https://aclanthology.org/2021.acl-long.58.pdf
 * code: NULL
+
+adding controllability in the dialogue model: ```control code features ```    and    ```control resampling```
+
+# Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization
+
+* dialogue summarization
+* paper: https://aclanthology.org/2021.acl-long.117.pdf
+* code: https://github.com/xcfcode/PLM_annotator
+
+```keyword extraction```    ``` redundancy detection```    ``` topic segmentation```
+
+![image-20220107161008540](images\dialogue-annotator-summarization.png)
 
