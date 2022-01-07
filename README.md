@@ -9,13 +9,7 @@
 
 ```FLow Score:```
 
-```text
-![](http://latex.codecogs.com/svg.latex?s_k = cos(<I^{'}_k,I_k>)\cdot length(I^{'}_k\cdot I_k))
-```
-
-```text
-![](http://latex.codecogs.com/svg.latex?Flow\_score = 2^{-\frac{1}{M}\sum_k^M \log(\frac{s_k+1}{2})})
-```
+<img src="https://latex.codecogs.com/svg.image?s_k&space;=&space;cos(<I^{'}_k,I_k>)\cdot&space;length(I^{'}_k&space;\cdot&space;I_k)" title="s_k = cos(<I^{'}_k,I_k>)\cdot length(I^{'}_k \cdot I_k)" />
 
 # Dual Slot Selector via Local Reliability Verification for Dialogue State Tracking
 
