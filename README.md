@@ -172,3 +172,9 @@ evaluation metric: Span-F1 Token-F1
 * amr(abstract meaning representation) graph for dialogue modeling
 * paper: https://aclanthology.org/2021.acl-long.342.pdf
 * code: https://github.com/muyeby/AMR-Dialogue
+
+introduce amr graph to better model the dialogue and help the downstream dialogue task
+
+task1: dialogue relation extraction
+
+task2: response generation
