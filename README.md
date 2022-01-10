@@ -106,3 +106,24 @@ topic-driven
 
 ```DECODE```: DiloguE COtradiction DEtection task
 
+# Dialogue Response Selection with Hierarchical Curriculum Learning
+
+* dialogue response selection
+* paper: https://aclanthology.org/2021.acl-long.137.pdf
+* code: https://github.com/yxuansu/HCL
+
+# Discovering Dialogue Slots with Weak Supervision
+
+* task-oriented dialogue system(dialogue slots discovery)
+* paper: https://aclanthology.org/2021.acl-long.189.pdf
+* code: https://github.com/vojtsek/joint-induction
+
+automatic domain-generic annotation
+
+identify domain-relevant slots based on the previous annotation
+
+# Comprehensive Study: How the Context Information of Different Granularity Affects Dialogue State Tracking?
+
+* dialogue state tracking
+* paper: https://aclanthology.org/2021.acl-long.193.pdf
+* code: https://github.com/yangpuhai/Granularity-in-DST
