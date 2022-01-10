@@ -127,3 +127,24 @@ identify domain-relevant slots based on the previous annotation
 * dialogue state tracking
 * paper: https://aclanthology.org/2021.acl-long.193.pdf
 * code: https://github.com/yangpuhai/Granularity-in-DST
+
+# OTTers: One-turn Topic Transitions for Open-Domain Dialogue
+
+* one-turn topic transition
+
+* paper: https://aclanthology.org/2021.acl-long.194.pdf
+* code:  https://github.com/karinseve/OTTers
+
+natural language generation according to one-turn topic transition
+
+# Towards Quantifiable Dialogue Coherence Evaluation
+
+* automatic dialogue coherence evaluation
+* paper: https://aclanthology.org/2021.acl-long.211.pdf
+* code:  https://github.com/James-Yip/QuantiDCE
+
+dialogue coherence: fluent , consistent and context-related
+
+multi-level ranking(**MLR**) pre-training and knowledge distillation(**KD**) fine-tuning
+
+```QuantiDCE```: Quantifiable Dialogue Coherence Evaluation
