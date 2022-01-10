@@ -1,7 +1,7 @@
 # TIPS
 
 * This repo collects the paper and corresponding official code from acl-2021 in dialogue domain
-* TOPICS:  ```dialogue response generation```   ```dialogue summarization```   ``` dialogue emotion detection```   ```task-oritented dialogue system```  ```dialogue relation extraction``` ```dialogue contradiction detection```
+* TOPICS:  ```dialogue response generation```   ```dialogue summarization```   ``` dialogue emotion detection```   ```task-oritented dialogue system```  ```dialogue relation extraction``` ```dialogue contradiction detection```  ```dialogue evaluation metrics```
 
 * 
 
@@ -190,3 +190,40 @@ task2: response generation
 additional training objective: utterance order restoration        sentence backbone regularization
 
 dialogue related features: speaker role, continuity and consistency
+
+# A Human-machine Collaborative Framework for Evaluating Malevolence in Dialogues
+
+* dialogue evaluation
+* paper： https://aclanthology.org/2021.acl-long.436.pdf
+* code: https://github.com/repozhang/CaSE_HMCEval
+
+# Generating Relevant and Coherent Dialogue Responses using Self-separated Conditional Variational AutoEncoders
+
+* dialogue response generation
+* paper: https://aclanthology.org/2021.acl-long.437.pdf
+* code: NULL
+
+**SepaCVAE**: self-separated Conditional Variational AutoEncoder
+
+# DVD: A Diagnostic Dataset for Multi-step Reasoning in Video Grounded Dialogue
+
+* video-grounded dialogue system
+* paper: https://aclanthology.org/2021.acl-long.439.pdf
+* code: https://github.com/facebookresearch/DVDialogues
+
+# DynaEval: Unifying Turn and Dialogue Level Evaluation
+
+* dialogue evaluation metrics
+* paper: https://aclanthology.org/2021.acl-long.441.pdf
+* code: https://github.com/e0397123/DynaEval
+
+GCN to model the utterances in the dialogue
+
+contrastive loss to distinguish well-formed dialogues and negative samples
+
+# RepSum: Unsupervised Dialogue Summarization based on Replacement Strategy
+
+* dialogue summarization
+* paper: https://aclanthology.org/2021.acl-long.471.pdf
+* code:  https://github.com/xiyan524/RepSum
+
