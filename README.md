@@ -1,7 +1,7 @@
 # TIPS
 
 * This repo collects the paper and corresponding official code from acl-2021 in dialogue domain
-* TOPICS:  ```dialogue response generation```   ```dialogue summarization```   ``` dialogue emotion detection```   ```task-oritented dialogue system```  ```dialogue relation extraction``` ```dialogue contradiction detection```  ```dialogue evaluation metrics```
+* TOPICS:  ```dialogue response generation```   ```dialogue summarization```   ``` dialogue emotion detection```   ```task-oritented dialogue system```  ```dialogue relation extraction``` ```dialogue contradiction detection```  ```dialogue evaluation metrics``` ```multimodal dialogue system```
 
 * 
 
@@ -207,7 +207,7 @@ dialogue related features: speaker role, continuity and consistency
 
 # DVD: A Diagnostic Dataset for Multi-step Reasoning in Video Grounded Dialogue
 
-* video-grounded dialogue system
+* video-grounded dialogue system(multimodal)
 * paper: https://aclanthology.org/2021.acl-long.439.pdf
 * code: https://github.com/facebookresearch/DVDialogues
 
@@ -226,4 +226,18 @@ contrastive loss to distinguish well-formed dialogues and negative samples
 * dialogue summarization
 * paper: https://aclanthology.org/2021.acl-long.471.pdf
 * code:  https://github.com/xiyan524/RepSum
+
+# PhotoChat: A Human-Human Dialogue Dataset with Photo Sharing Behavior for Joint Image-Text Modeling
+
+* multimodal dialogue system
+* paper: https://aclanthology.org/2021.acl-long.479.pdf
+* code:  https://github.com/google-research/google-research/tree/master/multimodalchat/
+
+image-text modeling
+
+# Space Efficient Context Encoding for Non-Task-Oriented Dialogue Generation with Graph Attention TransformerSpace Efficient Context Encoding for Non-Task-Oriented Dialogue Generation with Graph Attention Transformer
+
+* 
+* paper: https://aclanthology.org/2021.acl-long.546.pdf
+* code:  https://github.com/fabiangal/space-efficient-context-encoding-acl21
 
