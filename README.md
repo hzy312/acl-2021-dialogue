@@ -178,3 +178,15 @@ introduce amr graph to better model the dialogue and help the downstream dialogu
 task1: dialogue relation extraction
 
 task2: response generation
+
+# Structural Pre-training for Dialogue Comprehension
+
+* 
+* paper: https://aclanthology.org/2021.acl-long.399.pdf
+* code: https://github.com/cooelf/SPIDER
+
+```SPIDER```:**Structured PretraIned DialoguE Reader**
+
+additional training objective: utterance order restoration        sentence backbone regularization
+
+dialogue related features: speaker role, continuity and consistency
