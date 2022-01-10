@@ -148,3 +148,27 @@ dialogue coherence: fluent , consistent and context-related
 multi-level ranking(**MLR**) pre-training and knowledge distillation(**KD**) fine-tuning
 
 ```QuantiDCE```: Quantifiable Dialogue Coherence Evaluation
+
+# Novel Slot Detection: A Benchmark for Discovering Unknown Slot Types in the Task-Oriented Dialogue System
+
+* slot detection in ToD
+* paper: https://aclanthology.org/2021.acl-long.270.pdf
+* code: https://github.com/ChestnutWYN/ACL2021-Novel-Slot-Detection
+
+**Novel Slot Detection(NSD)**: detect the unknown or out-of-domain slot types based on the in-domain corpus
+
+dataset: Snips-NSD    ATIS-NSD
+
+evaluation metric: Span-F1 Token-F1
+
+# NeuralWOZ: Learning to Collect Task-Oriented Dialogue via Model-Based Simulation
+
+* dialogue generation
+* paper: https://aclanthology.org/2021.acl-long.287.pdf
+* code:  https://github.com/naver-ai/neuralwoz
+
+# Semantic Representation for Dialogue Modeling
+
+* amr(abstract meaning representation) graph for dialogue modeling
+* paper: https://aclanthology.org/2021.acl-long.342.pdf
+* code: https://github.com/muyeby/AMR-Dialogue
